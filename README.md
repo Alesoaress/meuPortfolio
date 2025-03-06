@@ -7,7 +7,7 @@ https://alesoaress.github.io/meuPortfolio/
 Este projeto teve como objetivo principal o aprendizado e o desenvolvimento profissional. Além disso, foi uma oportunidade para apresentar quem eu sou, destacar minhas atividades profissionais e compartilhar um pouco sobre minha formação e certificações.
 
 ## Layout Mobile 📱
-![Home_mobile](https://github.com/user-attachments/assets/17655886-0f36-4416-bcbd-906598b5f698) ![Certificacoes_mobile](https://github.com/user-attachments/assets/8f0d02b8-33f1-47c2-bdf6-613099d87055) ![Sobre_mobile](https://github.com/user-attachments/assets/abbdc133-8d33-4177-9ad8-d05345f6ee8f)
+![Home_mobile](https://github.com/user-attachments/assets/17655886-0f36-4416-bcbd-906598b5f698) ![Certificacoes_mobile](https://github.com/user-attachments/assets/8f0d02b8-33f1-47c2-bdf6-613099d87055) ![Sobre_mobile](https://github.com/user-attachments/assets/336850ba-b124-4772-8631-85d5808de190)
 
 
 ## Layout Desktop 💻
